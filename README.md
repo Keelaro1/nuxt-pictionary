@@ -1,5 +1,4 @@
-# Pictionary (Крокодил)
-
+# Pictionary
 > 
 
 ## Установка
